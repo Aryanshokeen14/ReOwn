@@ -1,6 +1,5 @@
-Primetrade Full-Stack Assignment
 
-A full-stack web application built with React/Next.js (frontend) and Node.js + Express (backend) featuring JWT-based authentication, a dashboard with CRUD operations, and documented APIs.
+A full-stack web application built with React (frontend) and Node.js + Express (backend) featuring JWT-based authentication, a dashboard with CRUD operations, and documented APIs.
 
 
 <img width="1440" height="900" alt="Screenshot 2026-01-16 at 5 08 39 PM" src="https://github.com/user-attachments/assets/40375588-305e-4fd4-8a8d-3d0ba50f0e27" />
